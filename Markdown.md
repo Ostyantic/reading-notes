@@ -12,4 +12,4 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 
 ## How does it work?
 
-[Basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/#images-1)
+[Basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
