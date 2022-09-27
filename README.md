@@ -1,14 +1,16 @@
-# My Notebook
-Code Fellows Notebook 102
+# Osty's Code Fellows Notebook
+## Growth Mindset
 
-What does **"Having a _Growth Mindset_"** mean to me?
+### What does **"Having a _Growth Mindset_"** mean to me? :thinking:
 
-A Growth mindset, to me, means striving for growing and learning more despite the challenges one might face. To me, a strong mind it paramount to achieving growth and ultimately, success.
+A growth mindset, to me, means striving for growing and learning more despite the challenges one might face. I believe a strong mind is paramount to achieving growth and ultimately, success.
 
 3 Reminders To Myself To Stay In A Growth Mindset:
 1. Never give up, every challenge is meant to be conquered. Failure is not an option.:no_good_man:
-2. If I am frustrated with something, take a break and tackle the problem again.
-3. Ask for help, if it's needed; Collab with others.
+2. Frustrated? :fire::brain::fire: Take a break and tackle the problem again.
+3. Nothing is impossible with commitment and dedication. :muscle:
 
+#### About Me
 
+Hello! My name Anthony. I go by Ostyantic in the gaming community. I am really excited to be here with Code Fellows to learn how to code!
 Link to my Github: [Ostyantic](https://github.com/Ostyantic)
