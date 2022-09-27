@@ -9,3 +9,5 @@ My own words
 - Reminder 1
 - Reminder 2
 - Reminder 3
+
+Link to mu Github: https://github.com/Ostyantic
