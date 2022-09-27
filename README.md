@@ -10,7 +10,7 @@ A growth mindset, to me, means striving for growing and learning more despite th
 2. Frustrated? 🔥 🧠 🔥 Take a break and tackle the problem again.
 3. Nothing is impossible with commitment and dedication. 💪
 
-#### About Me 
+# About Me 
 
 Hello! My name is Anthony. I go by Ostyantic (or Osty) in the gaming community. I am really excited to be here with Code Fellows to learn how to code!
 Link to my Github: [Ostyantic](https://github.com/Ostyantic)
