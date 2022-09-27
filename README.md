@@ -7,7 +7,7 @@ A growth mindset, to me, means striving for growing and learning more despite th
 
 3 Reminders To Myself To Stay In A Growth Mindset:
 1. Never give up, every challenge is meant to be conquered. Failure is not an option.:no_good_man:
-2. Frustrated? :fire::brain::fire: Take a break and tackle the problem again.
+2. Frustrated? :fire: :brain: :fire: Take a break and tackle the problem again.
 3. Nothing is impossible with commitment and dedication. :muscle:
 
 #### About Me
