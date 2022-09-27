@@ -1,7 +1,7 @@
 # My Notebook
 Code Fellows Notebook 102
 
-What does **"Having a _Growth Mindset_"** mean to me.
+What does **"Having a _Growth Mindset_"** mean to me?
 
 A Growth mindset, to me, means striving for growing and learning more despite the challenges one might face. To me, a strong mind it paramount to achieving growth and ultimately, success.
 
