@@ -10,4 +10,4 @@ My own words
 - Reminder 2
 - Reminder 3
 
-Link to my Github: [Ostyantic] (https://github.com/Ostyantic)
+Link to my Github: [Ostyantic](https://github.com/Ostyantic)
