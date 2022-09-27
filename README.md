@@ -1,7 +1,7 @@
 # Osty's Code Fellows Notebook
 ## Growth Mindset
 
-### What does **"Having a _Growth Mindset_"** mean to me? :thinking:
+### What does **"Having a _Growth Mindset_"** mean to me? 🤔
 
 A growth mindset, to me, means striving for growing and learning more despite the challenges one might face. I believe a strong mind is paramount to achieving growth and ultimately, success.
 
