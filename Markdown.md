@@ -4,7 +4,7 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 
 ## Why use Markdown?
 
-+ Markdown is very popular and used by many because of its simplicity.
++ Markdown is very popular and used by many because of its simplicity
 + Easy to read and write
 + Allows non-coders to use with ease, however, there is a learning curve.
 + Customizeable
@@ -13,3 +13,5 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 ## How does it work?
 
 [Basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
+
+[Main page](README.md)

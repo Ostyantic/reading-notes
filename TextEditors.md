@@ -2,7 +2,7 @@
 
 ## *What is a Text Editor?*
 
-A text editor is a piece of software you download and install in your computer that allows you write and manage text. A couple of examples are programs like Microsoft Word, Google Docs, even Notepad. These types of text editors are called ***Word Processors***, which allow you to edit text. Another type of text editor are ***Code Editors***. These programs allow you, the user, to edit code. A few examples are programs like Notepad++, Visual Studio Code(VS Code), Atom, and more! There are many code editors and each one of them are unique in their own way! 
+A text editor is a piece of software you download and install in your computer that allows you write and manage text. A couple of examples are programs like Microsoft Word, Google Docs, even Notepad. These types of text editors are called ***Word Processors***, which allow you to edit text. Another type of text editor are ***Code Editors***. These programs allow you, the user, to edit code. A few examples are programs like Notepad++, Visual Studio Code(VS Code), Atom, and more! There are many code editors and each one of them are unique in their own way!
 
 ## **Why should I use a Text Editor?**
 
@@ -18,13 +18,16 @@ Each Text editor has different uses. If you are needed to write an essay, for ex
 
 [Choosing A Text Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 
-## **IDEs** 
+## **IDEs**
 
 IDE is an acronym which stands for ***Integrated Development Evironment***. It's basically a suite of different software all coming together. Microsoft Outlook is a perfect example of an IDE. It is an email client, has a calander, allows its user to manage tasks and to-do lists, etc.
 
 ### **List of IDEs**
+
 - Visual Studio Code (VS Code)
 - Microsoft Outlook
 - Eclipse
 - Atom
 - Notepad++
+
+[Main page](README.md)
