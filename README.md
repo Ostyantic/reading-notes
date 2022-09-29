@@ -17,4 +17,4 @@ Link to my Github: [Ostyantic](https://github.com/Ostyantic)
 
 [My explanation to Markdown](Markdown.md)
 
-[Text Editors](TextEditors&CheatSheet.md)
+[Text Editors](TextEditors.md)
