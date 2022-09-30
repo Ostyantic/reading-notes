@@ -28,6 +28,6 @@ IDE is an acronym which stands for ***Integrated Development Evironment***. It's
 - Microsoft Outlook
 - Eclipse
 - Atom
-- Notepad++
+- ![Notepad++](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.clipartmax.com%2Fpng%2Fmiddle%2F90-900434_notepad-logo.png&imgrefurl=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8G6b1H7A0K9b1_notepad-logo%2F&tbnid=CWEjWkkoSYgrmM&vet=12ahUKEwjSk-r4pbv6AhVKhlMKHdOmBTkQMygKegUIARD_Ag..i&docid=_Hio5GT5qpGb9M&w=840&h=510&q=notepad&hl=en&ved=2ahUKEwjSk-r4pbv6AhVKhlMKHdOmBTkQMygKegUIARD_Ag)
 
 [Main page](README.md)

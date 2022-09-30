@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! My name is Anthony. I go by Ostyantic (or Osty) in the gaming community. I am really excited to be here with Code Fellows and I can't wait to learn how to code!
+Hello! My name is Anthony. I love playing video games and I go by Ostyantic (or Osty) in the gaming community. Some genres of games that I like are Turn-based Strategy, FPS, Fighters, MMOs, and party games. I also love playing board/card games. I have 2 cats, both siblings. Their names are Shadow and Onyx and they are the chillest cats I've ever known.  I am really excited to be here and experiencing (and conquering) my new coding journey with Code Fellows! :sunglasses:
 
 Link to my Github: [Ostyantic](https://github.com/Ostyantic)
 
