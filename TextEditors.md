@@ -26,7 +26,7 @@ IDE is an acronym which stands for ***Integrated Development Evironment***. It's
 
 - **Visual Studio Code (VS Code)**
 
-![VSCode](https://w7.pngwing.com/pngs/26/933/png-transparent-microsoft-visual-studio-code-alt-macos-bigsur-icon.png)
+![VSCode](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png)
 
 - **Microsoft Outlook**
 
