@@ -24,10 +24,18 @@ IDE is an acronym which stands for ***Integrated Development Evironment***. It's
 
 ### **List of IDEs**
 
-- Visual Studio Code (VS Code)
-- Microsoft Outlook
-- Eclipse
-- Atom
-- ![Notepad++](https://www.clipartmax.com/png/middle/90-900434_notepad-logo.png)
+- **Visual Studio Code (VS Code)**
+
+- **Microsoft Outlook**
+
+- **Eclipse**
+
+- **Atom**
+
+![Atom](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AIcon_Atom.svg&psig=AOvVaw0R5buAw87kzx8xnRURdP1c&ust=1664586627984000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJiorcuqu_oCFQAAAAAdAAAAABAE)
+
+- **Notepad++**
+
+![Notepad++](https://pbs.twimg.com/media/EGwO6UoWwAARoX5.png)
 
 [Main page](README.md)
