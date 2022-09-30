@@ -26,7 +26,7 @@ IDE is an acronym which stands for ***Integrated Development Evironment***. It's
 
 - **Visual Studio Code (VS Code)**
 
-![VSCode](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png)
+![VSCode](https://code.visualstudio.com/assets/branding/app-icon.png)
 
 - **Microsoft Outlook**
 
@@ -34,7 +34,7 @@ IDE is an acronym which stands for ***Integrated Development Evironment***. It's
 
 - **Eclipse**
 
-![Eclipse](https://w7.pngwing.com/pngs/631/720/png-transparent-eclipse-foundation-integrated-development-environment-ceylon-java-eclipse-miscellaneous-logo-electric-blue.png)
+![Eclipse](https://imagej.net/media/logos/eclipse.png)
 
 - **Atom**
 
