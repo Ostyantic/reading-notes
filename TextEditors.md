@@ -32,7 +32,7 @@ IDE is an acronym which stands for ***Integrated Development Evironment***. It's
 
 - **Atom**
 
-![Atom](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AIcon_Atom.svg&psig=AOvVaw0R5buAw87kzx8xnRURdP1c&ust=1664586627984000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJiorcuqu_oCFQAAAAAdAAAAABAE)
+![Atom](https://upload.wikimedia.org/wikipedia/commons/7/7b/Icon_Atom.svg)
 
 - **Notepad++**
 
