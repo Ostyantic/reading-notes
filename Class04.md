@@ -64,7 +64,7 @@ Element can be put inside other elements which is called **nesting**.
 
 ## **Semantics**
 
-In programming, Semantics refers to the meaning of a piece of code. Below are a few example of semantic elements:
+In programming, semantics refers to the meaning of a piece of code. Below are a few example of semantic elements:
 
 
 `<h1>` - A top level header
@@ -76,7 +76,7 @@ In programming, Semantics refers to the meaning of a piece of code. Below are a 
 ## **Wireframes**
 
 ### What is a wireframe?
-It is a practice used to define and plan the structure of how a website, app, or product will look. This process focuses on how the designer or clieant wants the user to process information on a site. Think of wireframes as the blueprint to a website before it is built.
+It is a practice used to define and plan the structure of how a website, app, or product will look. This process focuses on how the designer or client wants the user to process information on a site. Think of wireframes as the blueprint to a website before it is built.
 
 Example of wireframes taken from CareerFoundry student Samuel Adaramola:
 
