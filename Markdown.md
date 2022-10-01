@@ -41,6 +41,7 @@ You can indicate emphasis with bold, italic, strikethrough, subscript, or supers
 You can organize items into ordered and unordered lists.
 
 ### Ordered Lists
+
 To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one.
 
 1. First item
@@ -49,6 +50,7 @@ To create an ordered list, add line items with numbers followed by periods. The 
 4. Fourth item
 
 ### Unordered Lists
+
 To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items. Indent one or more items to create a nested list.
 
  - Apples
@@ -65,11 +67,15 @@ Indent one or more items to create a nested list.
     1. Nested item 2
 
 - Apples
-    - Honeycrisp
+  - Honeycrisp
 - Grapes
-    - Green
+  - Green
 
 ## Images
+
+You can display an image by adding `!` and wrapping the alt text in `[ ]`. Then wrap the link for the image in parentheses `()`.
+
+![This-is-an-image](https://via.placeholder.com/400x200.png?text=This+is+an+image)
 
 If you would like know more, [Basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/) & [Mastering Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text) are great resources to reference.
 
