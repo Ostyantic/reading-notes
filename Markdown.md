@@ -20,7 +20,7 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 
 ![headings](https://docs.github.com/assets/cb-8119/images/help/writing/headings-rendered.png)
 
-Headings are created using the "hashtag" symbol. This tell markdown to conver the text into a heading. Up to six (6) hashtags can be used when creating a heading. When you use two or more headings, GitHub automatically generates a table of contents which you can access by clicking  within the file header.
+Headings are created using the "hashtag" symbol. This tells markdown to convert the text into a heading. Up to six (6) hashtags can be used when creating a heading. When you use two or more headings, GitHub automatically generates a table of contents which you can access by clicking  within the file header.
 
 ## Styling Text
 
@@ -28,9 +28,9 @@ You can indicate emphasis with bold, italic, strikethrough, subscript, or supers
 
 `**bold**` or `__bold__` creates **bold** text
 
-`*italic*`` or ``_italic_` creates *italic* text
+`*italic*` or `_italic_` creates *italic* text
 
-`**Bold and _nested_ italic**` creates **bold and _nested_ italic text**
+`**Bold and _nested_ italic**` creates **bold and _nested_ italic** text
 
 `***All bold and italic***` creates text that is all ***bold and italic***
 
@@ -61,10 +61,16 @@ To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in
 #### Nested List
 Indent one or more items to create a nested list.
 
+***Ordered***
+
 1. Item 1
     1. Nested item 1
 2. Item 2
     1. Nested item 2
+
+---
+
+***Unordered***
 
 - Apples
   - Honeycrisp
