@@ -44,12 +44,14 @@ Element can be put inside other elements which is called **nesting**.
 **Example**:
 
 ```
+
 <p>I am <strong>soooo</strong> tired.</p>
 ```
 
 ## Basic HTML structure
 
 ```
+
 <!DOCTYPE HTML>
 <html>
   <head>

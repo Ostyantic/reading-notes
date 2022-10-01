@@ -45,5 +45,3 @@ IDE is an acronym which stands for ***Integrated Development Evironment***. It's
 ![Notepad++](https://pbs.twimg.com/media/EGwO6UoWwAARoX5.png)
 
 [Main page](README.md)
-
-small change
