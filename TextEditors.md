@@ -30,7 +30,7 @@ IDE is an acronym which stands for ***Integrated Development Evironment***. It's
 
 - **Microsoft Outlook**
 
-![Outlook](https://logos-world.net/wp-content/uploads/2021/02/Outlook-Logo.png)
+![Outlook](https://seeklogo.com/images/M/microsoft-outlook-logo-188AB32C94-seeklogo.com.png)
 
 - **Eclipse**
 
