@@ -77,6 +77,7 @@ You can display an image by adding `!` and wrapping the alt text in `[ ]`. Then 
 
 ![This-is-an-image](https://via.placeholder.com/400x200.png?text=This+is+an+image)
 
-If you would like know more, [Basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/) & [Mastering Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text) are great resources to reference.
+### **References**
+If you would like know more about markdown, [Basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/) & [Mastering Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text) are great resources!
 
 [Main page](README.md)
