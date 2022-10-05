@@ -61,3 +61,32 @@ while (true) {
 ```
 
 For the example above, the condition `true` is being tested before executing the statement `console.log('Hello, world!')`. Since the condition returns as true, the statement continuously executes `Hello, World!` in the console. This is an inifite loop.
+
+## Expressions
+
+Ant **expression** is a vlaid unit of code that resolves to a value. There are two types of expressions: those that have side effects such as assigning values, and those that purely evaluate.
+
+```
+// expression with side effect
+x = 7 
+// expression that evaluates
+x = 3 + 4
+```
+
+## Operators
+
+Operators are special symbols in Javascript that are used to perform specific operations on values and variables (also known as operands).
+
+### Types of Operators
+
+- Assignment operator
+- Comparison operator
+- Arithmetic operator
+- Bitwise operator
+- Logical operator
+- BigInt operator
+- String operator
+- Conditional (ternary) operator
+- Comma operator
+- Unary operator
+- Relational operator
