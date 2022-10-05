@@ -74,7 +74,7 @@ document.write("Hello ", name);
 </script>
 ```
 
-**confirm**
+**Confirm**
 
 This function allows the developer to ask a Yes/No question. Calling the `confirm()` function will show a pop-up window with the provided texts and with two buttons. If the user presses "OK" the `confirm()` function will return `true`, if the user presses "cancel" or hits the ESC key, the function will return `false`.
 

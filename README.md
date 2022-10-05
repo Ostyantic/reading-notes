@@ -10,10 +10,20 @@ Link to my Github: [Ostyantic](https://github.com/Ostyantic)
 
 [Osty's Growth Mindset](GrowthMindset.md)
 
-[Markdown](Markdown.md)
+[Markdown](Class01.md)
 
-[Text Editors](TextEditors.md)
+[Text Editors](Class02.md)
 
-[Git](Git.md)
+[Git](Class03.md)
+
+[HTML](Class04.md)
+
+[CSS](Class05.md)
+
+[Javascript](Class06.md)
+
+[Programming with Javascript](Class07.md)
+
+[Class08](Class08.md)
 
 [Cheat Sheet](TerminalCheatSheet.md)
