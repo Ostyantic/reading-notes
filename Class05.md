@@ -3,7 +3,7 @@
 
 ## What is CSS?
 
-CSS stands for ***Cascading Style Sheets**. It is a rule based language that allows one to create great-looking web pages by styling elements in HTML to ones liking.
+CSS stands for **Cascading Style Sheets**. It is a rule based language that allows one to create great-looking web pages by styling elements in HTML to ones liking.
 
 ## What is CSS used for?
 
