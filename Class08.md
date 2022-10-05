@@ -60,4 +60,4 @@ while (true) {
 }
 ```
 
-For the example above, the condition `true` is being tested before executing the statement `console.log('Hello, world!')`. Since the condition returns as true, the statement continuously executes. This is an inifite loop.
+For the example above, the condition `true` is being tested before executing the statement `console.log('Hello, world!')`. Since the condition returns as true, the statement continuously executes `Hello, World!` in the console. This is an inifite loop.
