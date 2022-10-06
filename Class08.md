@@ -90,3 +90,23 @@ Operators are special symbols in Javascript that are used to perform specific op
 - Comma operator
 - Unary operator
 - Relational operator
+
+| Name | Shorthand operator | Meaning |
+|:---  |      :-----:       |     ---:|
+|Assignment|`x = f()`|`x = f()`|
+|Additional assignment|`x += f()`|`x = x + f()`|
+|Subtraction assignment|`x -= f()`|`x = x - f()`|
+|Multiplication assignment| `x *= f()`| `x = x * f()`|
+|Division assignment|`x /= f()`|`x = x / f()`|
+|Remainder assignment|`x %= f()`| `x = x % f()`|
+|Exponentiation assignment|`x **= f()`| `x = x ** f()`|
+|Left shift assignment|`x <<= f()`|`x = x << f()`|
+|Right shift assignment|`x >>= f()`| `x = x >> f()`|
+|Unsigned right shift assignment| `x >>>= f()`| `x = x >>> f()`|
+|Bitwise AND assignment|`x &= f()`|`x = x & f()`|
+|Bitwise XOR assignment|`x ^= f()`|`x = x ^ f()`|
+|Bitwise OR assignment|`x =`&#124; `f()`|`x = x` &#124; `f()`|
+|Logical AND assignment|`x &&= f()`| `x && (x = f())`|
+|Logical OR assignment|`x` &#124;&#124; `= f()`|`x` &#124;&#124; `(x = f())`|
+|Logical nullish assignment| `x ??= f()`| `x ?? (x = f())`|
+
