@@ -17,7 +17,7 @@ if (isEmpty(field)) {
 
 ## Functions & Operators
 
-### **Function** - A block of code designed to perform a particular task. A function is executed when "something" invokes (or calls) it:
+### **Function** - A block of code designed to perform a particular task. A function is executed when "something" invokes (or calls) it
 
 - a block of code designed to perform a particular task.
 - When it is invoked (called) from JavaScript code
@@ -72,4 +72,3 @@ function myFunction(a, b) {
   return a * b;             // Function returns the product of a and b
 }
 ```
-

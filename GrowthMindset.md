@@ -9,5 +9,3 @@ A growth mindset, to me, means striving for growing and learning more despite th
 1. Never give up, every challenge is meant to be conquered. Failure is not an option. 🙅‍♂️
 2. Frustrated? 🔥 🧠 🔥 Take a break and tackle the problem again.
 3. Nothing is impossible with commitment and dedication. 💪
-
-

@@ -30,7 +30,7 @@ You can indicate emphasis with bold, italic, strikethrough, subscript, or supers
 
 `*italic*` or `_italic_` creates *italic* text
 
-`**Bold and _nested_ italic**` creates **bold and _nested_ italic** text
+`**Bold and *nested* italic**` creates **bold and _nested_ italic** text
 
 `***All bold and italic***` creates text that is all ***bold and italic***
 
@@ -53,12 +53,13 @@ To create an ordered list, add line items with numbers followed by periods. The 
 
 To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items. Indent one or more items to create a nested list.
 
- - Apples
- - Oranges
- - Pears
- - Grapes
++ Apples
++ Oranges
++ Pears
++ Grapes
 
 #### Nested List
+
 Indent one or more items to create a nested list.
 
 ***Ordered***
@@ -72,10 +73,10 @@ Indent one or more items to create a nested list.
 
 ***Unordered***
 
-- Apples
-  - Honeycrisp
-- Grapes
-  - Green
++ Apples
++ Honeycrisp
++ Grapes
++ Green
 
 ## Images
 
@@ -84,4 +85,5 @@ You can display an image by adding `!` and wrapping the alt text in `[ ]`. Then 
 ![This-is-an-image](https://via.placeholder.com/400x200.png?text=This+is+an+image)
 
 ### **References**
+
 If you would like know more about markdown, [Basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/) & [Mastering Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text) are great resources!
