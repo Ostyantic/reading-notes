@@ -28,20 +28,15 @@ IDE is an acronym which stands for ***Integrated Development Evironment***. It's
 
 ![VSCode](https://code.visualstudio.com/assets/branding/app-icon.png)
 
-- **Microsoft Outlook**
-
-![Outlook](https://seeklogo.com/images/M/microsoft-outlook-logo-188AB32C94-seeklogo.com.png)
-
 - **Eclipse**
 
 ![Eclipse](https://imagej.net/media/logos/eclipse.png)
 
 - **Atom**
 
-![Atom](https://upload.wikimedia.org/wikipedia/commons/7/7b/Icon_Atom.svg)
+![Atom](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZpuKYTM6vpVkathc2DwgVaGetvvYX-BBSGo4Lpus1BH0TZ_8u98BL7SDMVXxToM1lnKg&usqp=CAU)
 
 - **Notepad++**
 
 ![Notepad++](https://pbs.twimg.com/media/EGwO6UoWwAARoX5.png)
 
-[Main page](README.md)

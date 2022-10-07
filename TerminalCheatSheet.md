@@ -26,5 +26,3 @@ A path is a means to get to a particular file or directory in the terminal. Ther
 - **file.exe** - an executable file, or program
 - **file.txt.** - A text file
 - **file.png, .gif, .jpg, .pdf** - An image
-
-[Main page](README.md)

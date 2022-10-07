@@ -24,6 +24,6 @@ Link to my Github: [Ostyantic](https://github.com/Ostyantic)
 
 [Programming with Javascript](Class07.md)
 
-[Class08](Class08.md)
+[Operators & Loops](Class08.md)
 
 [Cheat Sheet](TerminalCheatSheet.md)
