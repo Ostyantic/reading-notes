@@ -8,6 +8,7 @@ Link to my Github: [Ostyantic](https://github.com/Ostyantic)
 
 ### Table of Contents
 
+#### Reading Notes 102
 [Osty's Growth Mindset](GrowthMindset.md)
 
 [Markdown](Class01.md)
@@ -27,3 +28,5 @@ Link to my Github: [Ostyantic](https://github.com/Ostyantic)
 [Operators & Loops](Class08.md)
 
 [Cheat Sheet](TerminalCheatSheet.md)
+
+#### Reading Notes 201
