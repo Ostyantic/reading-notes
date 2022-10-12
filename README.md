@@ -8,25 +8,56 @@ Link to my Github: [Ostyantic](https://github.com/Ostyantic)
 
 ### Table of Contents
 
-#### Reading Notes 102
+#### ***Reading Notes 102***
+
 [Osty's Growth Mindset](GrowthMindset.md)
 
-[Markdown](Class01.md)
+[Terminal Nav Cheat Sheet](TerminalCheatSheet.md)
 
-[Text Editors](Class02.md)
+[Class102-01](Class01.md)
 
-[Git](Class03.md)
+[Class102-02](Class02.md)
 
-[HTML](Class04.md)
+[Class102-03](Class03.md)
 
-[CSS](Class05.md)
+[Class102-04](Class04.md)
 
-[Javascript](Class06.md)
+[Class102-05](Class05.md)
 
-[Programming with Javascript](Class07.md)
+[Class102-06](Class06.md)
 
-[Operators & Loops](Class08.md)
+[Class102-07](Class07.md)
 
-[Cheat Sheet](TerminalCheatSheet.md)
+[Class102-08](Class08.md)
 
-#### Reading Notes 201
+#### ***Reading Notes 201***
+
+Class201-01
+
+Class201-02
+
+Class201-03
+
+Class201-04
+
+Class201-05
+
+Class201-06
+
+Class201-07
+
+Class201-08
+
+Class201-09
+
+Class201-10
+
+Class201-11
+
+Class201-12
+
+Class201-13
+
+Class201-14
+
+Class201-15
