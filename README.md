@@ -14,21 +14,21 @@ Link to my Github: [Ostyantic](https://github.com/Ostyantic)
 
 [Terminal Nav Cheat Sheet](TerminalCheatSheet.md)
 
-[Class102-01](Class01.md)
+[Class102-01](Class102-01.md)
 
-[Class102-02](Class02.md)
+[Class102-02](Class102-02.md)
 
-[Class102-03](Class03.md)
+[Class102-03](Class102-03.md)
 
-[Class102-04](Class04.md)
+[Class102-04](Class102-04.md)
 
-[Class102-05](Class05.md)
+[Class102-05](Class102-05.md)
 
-[Class102-06](Class06.md)
+[Class102-06](Class102-06.md)
 
-[Class102-07](Class07.md)
+[Class102-07](Class102-07.md)
 
-[Class102-08](Class08.md)
+[Class102-08](Class102-08.md)
 
 #### ***Reading Notes 201***
 
