@@ -32,9 +32,9 @@ Link to my Github: [Ostyantic](https://github.com/Ostyantic)
 
 #### ***Reading Notes 201***
 
-[Class201-01](Class201.01.md)
+[Class201-01](Class201-01.md)
 
-Class201-02
+[Class201-02](Class201-02.md)
 
 Class201-03
 
