@@ -42,7 +42,7 @@ Link to my Github: [Ostyantic](https://github.com/Ostyantic)
 
 [Class201-05](Class201/Class201-05.md)
 
-Class201-06
+[Class201-06](Class201/Class201-06.md)
 
 Class201-07
 
