@@ -48,7 +48,7 @@ Link to my Github: [Ostyantic](https://github.com/Ostyantic)
 
 [Class201-08](Class201/Class201-08.md)
 
-Class201-09
+[Class201-09](Class201/Class201-09.md)
 
 Class201-10
 
