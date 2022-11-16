@@ -50,7 +50,7 @@ Link to my Github: [Ostyantic](https://github.com/Ostyantic)
 
 [Class201-09](Class201/Class201-09.md)
 
-Class201-10
+[Class201-10](Class201/Class201-10.md)
 
 Class201-11
 
