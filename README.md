@@ -62,7 +62,7 @@ Link to my Github: [Ostyantic](https://github.com/Ostyantic)
 
 #### ***Code 301 - Intermediate Software Development***
 
-Class301-01
+[Class301-01](Class301/Class301-01.md)
 
 Class301-02
 
@@ -92,4 +92,4 @@ Class301-14
 
 Class301-15
 
-#### ***Code 401 - Advanced Software Developmen***
+#### ***Code 401 - Advanced Software Development***
