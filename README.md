@@ -64,7 +64,7 @@ Link to my Github: [Ostyantic](https://github.com/Ostyantic)
 
 [Class301-01](Class301/Class301-01.md)
 
-Class301-02
+[Class301-02](Class301/Class301-02.md)
 
 Class301-03
 
